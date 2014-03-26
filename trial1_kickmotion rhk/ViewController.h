@@ -10,4 +10,12 @@
 
 @interface ViewController : UIViewController
 
+{
+
+    
+}
+
+
+- (IBAction)next:(id)sender;
+
 @end
