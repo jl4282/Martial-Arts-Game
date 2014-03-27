@@ -46,10 +46,10 @@ BOOL Player1Position = RLB;
     {
         if(Player1Position == LLB) // if LLB and kicking with left leg -> full round house kick
         {
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"bprhk1.png"], [UIImage imageNamed:@"brhk.png"], [UIImage imageNamed:@"stand1.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"bprhk1.png"], [UIImage imageNamed:@"brhk.png"], [UIImage imageNamed:@"stand1.png"], nil];
             
             // all three below is to deal with changing legs i.e. LLB -> RLB
-            Player.image = [UIImage imageNamed:@"stand1.png"];
+            player.image = [UIImage imageNamed:@"stand1.png"];
             Player1Position = false;
             background.transform = CGAffineTransformMakeScale(-1, 1);
             
@@ -57,7 +57,7 @@ BOOL Player1Position = RLB;
         
         else // if RLB and kicking with left leg -> ap bal (front left rhk).
         {
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"bprhk1.png"], [UIImage imageNamed:@"brhk.png"], [UIImage imageNamed:@"stand1.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"bprhk1.png"], [UIImage imageNamed:@"brhk.png"], [UIImage imageNamed:@"stand1.png"], nil];
             
         }
         
@@ -69,10 +69,10 @@ BOOL Player1Position = RLB;
         if(Player1Position == RLB) // if LLB & kick with left = full rhk
         {
             
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"prhk1.png"], [UIImage imageNamed:@"prhk.png"], [UIImage imageNamed:@"rhk.png"], [UIImage imageNamed:@"back.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"prhk1.png"], [UIImage imageNamed:@"prhk.png"], [UIImage imageNamed:@"rhk.png"], [UIImage imageNamed:@"back.png"], nil];
             
             // change player's posture
-            Player.image = [UIImage imageNamed:@"back.png"];
+            player.image = [UIImage imageNamed:@"back.png"];
             Player1Position = true;
             
             background.transform = CGAffineTransformMakeScale(1, 1);
@@ -82,18 +82,18 @@ BOOL Player1Position = RLB;
         else // if RLB & kick with left = ap bal rhk
         {
             
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"prhk.png"], [UIImage imageNamed:@"rhk.png"], [UIImage imageNamed:@"back.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"prhk.png"], [UIImage imageNamed:@"rhk.png"], [UIImage imageNamed:@"back.png"], nil];
             
-            Player.image = [UIImage imageNamed:@"back.png"];
+            player.image = [UIImage imageNamed:@"back.png"];
             
             
         }
     }
     
     // do animation
-    [Player setAnimationRepeatCount:1];
-    Player.animationDuration = 0.5;
-    [Player startAnimating];
+    [player setAnimationRepeatCount:1];
+    player.animationDuration = 0.5;
+    [player startAnimating];
 
 }
 
@@ -108,9 +108,9 @@ BOOL Player1Position = RLB;
         if(Player1Position == RLB){
             
         
-        Player.animationImages = [NSArray arrayWithObjects:[UIImage imageNamed:@"rl_akickp1.png"], [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
+        player.animationImages = [NSArray arrayWithObjects:[UIImage imageNamed:@"rl_akickp1.png"], [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
     
-        Player.image = [UIImage imageNamed:@"back.png"];
+        player.image = [UIImage imageNamed:@"back.png"];
         Player1Position = true;
         
         background.transform = CGAffineTransformMakeScale(1, 1);
@@ -118,7 +118,7 @@ BOOL Player1Position = RLB;
         }
         else
         {
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
             
         }
         
@@ -131,9 +131,9 @@ BOOL Player1Position = RLB;
         
         if(Player1Position == LLB)
         {
-            Player.animationImages = [NSArray arrayWithObjects:[UIImage imageNamed:@"ll_akickp1.png"], [UIImage imageNamed:@"ll_akickp2.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akick.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akickre.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects:[UIImage imageNamed:@"ll_akickp1.png"], [UIImage imageNamed:@"ll_akickp2.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akick.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akickre.png"], nil];
             
-            Player.image = [UIImage imageNamed:@"stand1.png"];
+            player.image = [UIImage imageNamed:@"stand1.png"];
             
             Player1Position = false;
             
@@ -143,7 +143,7 @@ BOOL Player1Position = RLB;
         }
         else
         {
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"ll_akickp2.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akick.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akickre.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"ll_akickp2.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akick.png"], [UIImage imageNamed:@"ll_akickp3.png"], [UIImage imageNamed:@"ll_akickre.png"], nil];
             
             
         }
@@ -152,9 +152,9 @@ BOOL Player1Position = RLB;
     }
     
         
-    [Player setAnimationRepeatCount:1];
-    Player.animationDuration = 0.5;
-    [Player startAnimating];
+    [player setAnimationRepeatCount:1];
+    player.animationDuration = 0.5;
+    [player startAnimating];
     
     
     
@@ -166,16 +166,16 @@ BOOL Player1Position = RLB;
     //{
         if(sender.state == UIGestureRecognizerStateBegan)
         {
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_bkickp1.png"], [UIImage imageNamed:@"rl_bkickp2.png"], [UIImage imageNamed:@"rl_bkickp3.png"], [UIImage imageNamed:@"rl_bkick.png"], [UIImage imageNamed:@"rl_bkickre.png"], [UIImage imageNamed:@"back.png"], nil];
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_bkickp1.png"], [UIImage imageNamed:@"rl_bkickp2.png"], [UIImage imageNamed:@"rl_bkickp3.png"], [UIImage imageNamed:@"rl_bkick.png"], [UIImage imageNamed:@"rl_bkickre.png"], [UIImage imageNamed:@"back.png"], nil];
             
 
             Player1Position = true;
             
-            Player.image = [UIImage imageNamed:@"back.png"];
+            player.image = [UIImage imageNamed:@"back.png"];
 
-            [Player setAnimationRepeatCount:1];
-            Player.animationDuration = 0.5;
-            [Player startAnimating];
+            [player setAnimationRepeatCount:1];
+            player.animationDuration = 0.5;
+            [player startAnimating];
             
     
         }

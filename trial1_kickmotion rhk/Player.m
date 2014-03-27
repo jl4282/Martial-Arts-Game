@@ -16,5 +16,5 @@
 @synthesize location;
 @synthesize stamina;
 @synthesize stance;
-
+@synthesize animation;
 @end
