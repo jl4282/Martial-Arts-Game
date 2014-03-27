@@ -9,5 +9,12 @@
 #import <Foundation/Foundation.h>
 
 @interface Player : NSObject
+@property int health;
+@property int location;
+@property int stamina;
+@property BOOL stance;
+@property UIImageView* animation;
 
+/*+(Player)createPlayer- create a new player. perhaps different health/stamina based on the difficulty level?
+ */
 @end

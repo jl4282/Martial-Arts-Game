@@ -8,6 +8,13 @@
 
 #import "Player.h"
 
+//Keeps track of player stats
+
 @implementation Player
 
+@synthesize health;
+@synthesize location;
+@synthesize stamina;
+@synthesize stance;
+@synthesize animation;
 @end
