@@ -48,6 +48,7 @@
 		568FB70D18DFB41100147D1E /* rl_bkickp4.png in Resources */ = {isa = PBXBuildFile; fileRef = 568FB70718DFB41100147D1E /* rl_bkickp4.png */; };
 		568FB70E18DFB41100147D1E /* rl_bkickre.png in Resources */ = {isa = PBXBuildFile; fileRef = 568FB70818DFB41100147D1E /* rl_bkickre.png */; };
 		88F07DE018E39A2A008F2606 /* Player.m in Sources */ = {isa = PBXBuildFile; fileRef = 88F07DDF18E39A2A008F2606 /* Player.m */; };
+		88F07DE318E3D67E008F2606 /* PlayerContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 88F07DE218E3D67E008F2606 /* PlayerContainer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -109,6 +110,8 @@
 		568FB70818DFB41100147D1E /* rl_bkickre.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rl_bkickre.png; sourceTree = "<group>"; };
 		88F07DDE18E39A2A008F2606 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
 		88F07DDF18E39A2A008F2606 /* Player.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Player.m; sourceTree = "<group>"; };
+		88F07DE118E3D67E008F2606 /* PlayerContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerContainer.h; sourceTree = "<group>"; };
+		88F07DE218E3D67E008F2606 /* PlayerContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerContainer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +180,8 @@
 				568FB6EF18DF8FAA00147D1E /* sparring.m */,
 				88F07DDE18E39A2A008F2606 /* Player.h */,
 				88F07DDF18E39A2A008F2606 /* Player.m */,
+				88F07DE118E3D67E008F2606 /* PlayerContainer.h */,
+				88F07DE218E3D67E008F2606 /* PlayerContainer.m */,
 				563D981418DE38190094FE3E /* Images.xcassets */,
 				563D980318DE38180094FE3E /* Supporting Files */,
 			);
@@ -363,6 +368,7 @@
 				563D980D18DE38180094FE3E /* AppDelegate.m in Sources */,
 				563D980918DE38180094FE3E /* main.m in Sources */,
 				568FB6F018DF8FAA00147D1E /* sparring.m in Sources */,
+				88F07DE318E3D67E008F2606 /* PlayerContainer.m in Sources */,
 				88F07DE018E39A2A008F2606 /* Player.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
