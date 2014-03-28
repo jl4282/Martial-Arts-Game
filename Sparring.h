@@ -22,5 +22,8 @@
 -(IBAction)SwipeDown:(UIGestureRecognizer *) sender;
 -(IBAction)rotation:(UIGestureRecognizer *)sender;
 
+-(IBAction)MoveRight:(UIGestureRecognizer*) sender;
+-(IBAction)MoveLeft: (UIGestureRecognizer*)sender;
+
 
 @end
