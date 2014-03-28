@@ -115,10 +115,10 @@ int movement = 33;
     }
     
     // do animation
-<<<<<<< HEAD
-    [Player setAnimationRepeatCount:1];
-    Player.animationDuration = 0.5;
-    [Player startAnimating];
+
+    [player setAnimationRepeatCount:1];
+    player.animationDuration = 0.5;
+    [player startAnimating];
     
     if(!initial_position)
     {
@@ -127,13 +127,6 @@ int movement = 33;
         background.animationDuration = 1;
         [background startAnimating];
     }
-    
-    
-=======
-    [player setAnimationRepeatCount:1];
-    player.animationDuration = 0.5;
-    [player startAnimating];
->>>>>>> FETCH_HEAD
 
 }
 
@@ -163,17 +156,13 @@ int movement = 33;
         }
         else
         {
-<<<<<<< HEAD
-            Player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
-          
+
+            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
             if(!initial_position)
             {
                 background.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed: @"scarecrow_top_stance.png"], [UIImage imageNamed:@"scarecrow_rlakhit.png"], [UIImage imageNamed:@"scarecrow_top_stance.png"], nil ];
                 
             }
-=======
-            player.animationImages = [NSArray arrayWithObjects: [UIImage imageNamed:@"rl_akickp2.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akick.png"], [UIImage imageNamed:@"rl_akickp3.png"], [UIImage imageNamed:@"rl_akickre.png"], nil];
->>>>>>> FETCH_HEAD
             
         }
         
@@ -261,7 +250,7 @@ int movement = 33;
     
     if(initial_position)
     {
-        Player.center = CGPointMake(Player.center.x + movement, Player.center.y);
+        player.center = CGPointMake(player.center.x + movement, player.center.y);
         background.image = [UIImage imageNamed:@"Scarecrow_top_stance"];
         initial_position = false;
         
@@ -273,7 +262,7 @@ int movement = 33;
 {
     if(!initial_position)
     {
-        Player.center = CGPointMake(Player.center.x - movement, Player.center.y);
+        player.center = CGPointMake(player.center.x - movement, player.center.y);
         background.image = [UIImage imageNamed:@"Scarecrow_whole_stance"];
         initial_position = true;
         
