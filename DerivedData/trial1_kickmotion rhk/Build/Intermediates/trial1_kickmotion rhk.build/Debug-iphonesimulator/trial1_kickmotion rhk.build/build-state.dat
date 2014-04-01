@@ -1,0 +1,918 @@
+Ttrial1_kickmotion rhk
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.pch trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/sparring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk normal i386
+cCpResource trial1_kickmotion\ rhk/background.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/background.png
+cCpResource trial1_kickmotion\ rhk/rl_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akick.png
+cCpResource trial1_kickmotion\ rhk/stand1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/stand1.png
+cCpResource trial1_kickmotion\ rhk/rl_bkickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp1.png
+cCpResource trial1_kickmotion\ rhk/rl_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickre.png
+cCpResource trial1_kickmotion\ rhk/rl_bkickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickre.png
+cCpResource trial1_kickmotion\ rhk/rl_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp1.png
+cCpResource trial1_kickmotion\ rhk/bprhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/bprhk1.png
+cCpResource trial1_kickmotion\ rhk/ll_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp2.png
+cCpResource trial1_kickmotion\ rhk/rl_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp3.png
+cCpResource trial1_kickmotion\ rhk/back.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/back.png
+cCpResource trial1_kickmotion\ rhk/ll_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp1.png
+cCpResource trial1_kickmotion\ rhk/prhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk.png
+cCpResource trial1_kickmotion\ rhk/rl_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp2.png
+cCpResource trial1_kickmotion\ rhk/rl_bkickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp2.png
+cCpResource trial1_kickmotion\ rhk/rhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rhk.png
+cCpResource trial1_kickmotion\ rhk/rl_bkick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkick.png
+cCpResource trial1_kickmotion\ rhk/ll_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akick.png
+cCpResource trial1_kickmotion\ rhk/ll_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickre.png
+cCpResource trial1_kickmotion\ rhk/rl_bkickp4.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp4.png
+cCpResource trial1_kickmotion\ rhk/martha.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/martha.png
+cCpResource trial1_kickmotion\ rhk/rl_bkickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp3.png
+cCpResource trial1_kickmotion\ rhk/prhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk1.png
+cCpResource trial1_kickmotion\ rhk/brhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/brhk.png
+cCopyStringsFile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/en.lproj/InfoPlist.strings trial1_kickmotion\ rhk/en.lproj/InfoPlist.strings
+cCpResource trial1_kickmotion\ rhk/ll_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp3.png
+cCompileStoryboard /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Images.xcassets
+cProcessInfoPlistFile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/Info.plist /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Info.plist
+cGenerateDSYMFile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app.dSYM /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk
+cTouch /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533516AE00000000000003B4
+t1395988142
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533516F4000000000000019E
+t1395988212
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533516FE0000000000446820
+t1395988222
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053351703000000000088D8C0
+t1395988227
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005335171A0000000001F1DE10
+t1395988250
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533517660000000000000ADC
+t1395988326
+s2780
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion rhk-Prefix.pch.pch
+t1396037701
+s116960
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/AppDelegate.o
+t1396037702
+s62432
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/Player.o
+t1396037702
+s3348
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/ViewController.o
+t1396037702
+s39916
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/main.o
+t1396037702
+s3588
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/sparring.o
+t1396037702
+s58600
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/trial1_kickmotion rhk.LinkFileList
+c000000005335D843000000000000041D
+t1396037699
+s1053
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/assetcatalog_dependencies.txt
+t1396037711
+s556
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/assetcatalog_generated_info.plist
+t1396037711
+s525
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app
+t1396037711
+s1156
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app.dSYM
+t2
+s0
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/Base.lproj/Main.storyboardc
+t1396037711
+s238
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/Info.plist
+t1396037711
+s963
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/PkgInfo
+t1396037711
+s8
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/back.png
+t1396037702
+s13124
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/background.png
+t1396037702
+s232601
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/bprhk1.png
+t1396037702
+s15523
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/brhk.png
+t1396037702
+s14298
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/en.lproj/InfoPlist.strings
+t1396037702
+s42
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akick.png
+t1396037702
+s14086
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp1.png
+t1396037702
+s13639
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp2.png
+t1396037702
+s13217
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp3.png
+t1396037702
+s14068
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickre.png
+t1396037702
+s13829
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/martha.png
+t1396037702
+s29672
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/prhk.png
+t1396037702
+s11829
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/prhk1.png
+t1396037702
+s12852
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rhk.png
+t1396037702
+s13172
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akick.png
+t1396037702
+s13305
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp1.png
+t1396037702
+s11798
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp2.png
+t1396037702
+s12477
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp3.png
+t1396037702
+s14325
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickre.png
+t1396037702
+s13746
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkick.png
+t1396037702
+s11713
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp1.png
+t1396037702
+s15246
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp2.png
+t1396037702
+s16052
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp3.png
+t1396037702
+s11490
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp4.png
+t1396037702
+s12841
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickre.png
+t1396037702
+s14548
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/stand1.png
+t1396037702
+s13089
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/trial1_kickmotion rhk
+t1396037702
+s27984
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/sparring.m
+c000000005335D8200000000000001725
+t1396037664
+s5925
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/AppDelegate.m
+c00000000532E009800000000000007E5
+t1395523736
+s2021
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Base.lproj/Main.storyboard
+c000000005335D8200000000000001D8F
+t1396037664
+s7567
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Images.xcassets
+c00000000533228300000000000000088
+t1395796016
+s136
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Player.m
+c000000005335D82000000000000000C1
+t1396037664
+s193
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ViewController.m
+c00000000532F64CF0000000000000171
+t1395614927
+s369
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/back.png
+c00000000532E47810000000000003344
+t1395541889
+s13124
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/background.png
+c00000000532E1F370000000000038C99
+t1395531575
+s232601
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/bprhk1.png
+c00000000532E49D90000000000003CA3
+t1395542489
+s15523
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/brhk.png
+c00000000532E4A1100000000000037DA
+t1395542545
+s14298
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/en.lproj/InfoPlist.strings
+c00000000532E0098000000000000002D
+t1395523736
+s45
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ll_akick.png
+c00000000532F78FB0000000000003706
+t1395620091
+s14086
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ll_akickp1.png
+c00000000532F77F50000000000003547
+t1395619829
+s13639
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ll_akickp2.png
+c00000000532F784C00000000000033A1
+t1395619916
+s13217
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ll_akickp3.png
+c00000000532F789600000000000036F4
+t1395619990
+s14068
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ll_akickre.png
+c00000000532F792B0000000000003605
+t1395620139
+s13829
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/main.m
+c00000000532E0098000000000000015F
+t1395523736
+s351
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/martha.png
+c00000000532F65A200000000000073E8
+t1395615138
+s29672
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/prhk.png
+c00000000532E3DA20000000000002E35
+t1395539362
+s11829
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/prhk1.png
+c00000000532E48490000000000003234
+t1395542089
+s12852
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rhk.png
+c00000000532E3D0C0000000000003374
+t1395539212
+s13172
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_akick.png
+c00000000532F79BF00000000000033F9
+t1395620287
+s13305
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_akickp1.png
+c00000000532F4BA30000000000002E16
+t1395608483
+s11798
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_akickp2.png
+c00000000532F4BEE00000000000030BD
+t1395608558
+s12477
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_akickp3.png
+c00000000532F72E900000000000037F5
+t1395618537
+s14325
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_akickre.png
+c00000000532F710B00000000000035B2
+t1395618059
+s13746
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_bkick.png
+c00000000532F7BA90000000000002DC1
+t1395620777
+s11713
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_bkickp1.png
+c00000000532F7AE40000000000003B8E
+t1395620580
+s15246
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_bkickp2.png
+c00000000532F7B0B0000000000003EB4
+t1395620619
+s16052
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_bkickp3.png
+c00000000532F7B540000000000002CE2
+t1395620692
+s11490
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_bkickp4.png
+c00000000532F7B830000000000003229
+t1395620739
+s12841
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/rl_bkickre.png
+c00000000532F7BCE00000000000038D4
+t1395620814
+s14548
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/stand1.png
+c00000000532E3D690000000000003321
+t1395539305
+s13089
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/trial1_kickmotion rhk-Info.plist
+c00000000532F63CD000000000000044D
+t1395614669
+s1101
+
+N/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/trial1_kickmotion rhk-Prefix.pch
+c00000000532E00980000000000000158
+t1395523736
+s344
+
+CBuild AST from /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/sparring.m
+r0
+
+CBuild AST from /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/AppDelegate.m
+r0
+
+CBuild AST from /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Player.m
+r0
+
+CBuild AST from /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ViewController.m
+r0
+
+CBuild AST from /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies894227c30fe6b841^d1573cc30fe6b841^---0#1#1#--18"Check dependencies36"9ECA05B8-6E98-49C4-94F1-A50A64C24327-
+
+CCompileAssetCatalog /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Images.xcassets
+s417730502.692336
+e417730511.654109
+r1
+xCompileAssetCatalog
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/LaunchImage-700-568h@2x.png
+o/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/Assets.car
+o/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"CompileAssetCatalog DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app trial1_kickmotion\ rhk/Images.xcassets157"CompileAssetCatalog DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app trial1_kickmotion\ rhk/Images.xcassets2254b1c60fe6b841^8a74a7cf0fe6b841^-584"/* com.apple.actool.compilation-results *//Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/LaunchImage-700-568h@2x.png/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/Assets.car/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/Images.xcassets/0000000000000000^1448"CompileAssetCatalog DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app trial1_kickmotion\ rhk/Images.xcassets    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Images.xcassets36"9DDF40B7-F095-4CBD-BF72-DEBA647AE1E5-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417730501.887009
+e417730502.119338
+r1
+xCompileC
+xDerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/AppDelegate.o
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/AppDelegate.m
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/AppDelegate.m282"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.o trial1_kickmotion\ rhk/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler473ae3c50fe6b841^115120c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/AppDelegate.m0000000000000000^4678"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.o trial1_kickmotion\ rhk/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-generated-files.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-own-target-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-all-target-headers.hmap -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-project-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources/i386 -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.dia -c /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/AppDelegate.m -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/AppDelegate.o36"271EB466-0DA5-4F7D-AFF1-600BA7869258-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417730502.110134
+e417730502.177584
+r1
+xCompileC
+xDerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/Player.o
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Player.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Player.m
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Player.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Player.m272"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.o trial1_kickmotion\ rhk/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f571cc60fe6b841^1e892fc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/Player.m0000000000000000^4648"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.o trial1_kickmotion\ rhk/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-generated-files.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-own-target-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-all-target-headers.hmap -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-project-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources/i386 -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.d --serialize-diagnostics /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.dia -c /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Player.m -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/Player.o36"4D3068A6-EB7E-41F6-9104-52FC23B26FA4-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417730501.886869
+e417730502.118037
+r1
+xCompileC
+xDerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/ViewController.o
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ViewController.m
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/ViewController.m288"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.o trial1_kickmotion\ rhk/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler232fe3c50fe6b841^834e20c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/ViewController.m0000000000000000^4696"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.o trial1_kickmotion\ rhk/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-generated-files.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-own-target-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-all-target-headers.hmap -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-project-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources/i386 -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.dia -c /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ViewController.m -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/ViewController.o36"C3572DC4-FA7F-4F50-BBD4-42D37CA3351B-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417730501.887185
+e417730502.108597
+r1
+xCompileC
+xDerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/main.o
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/main.m
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/main.m268"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.o trial1_kickmotion\ rhk/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler293de3c50fe6b841^e94620c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/main.m0000000000000000^4636"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.o trial1_kickmotion\ rhk/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-generated-files.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-own-target-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-all-target-headers.hmap -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-project-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources/i386 -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.dia -c /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/main.m -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/main.o36"A8D32557-A681-4246-A252-AEFD7B2B1E66-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/sparring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417730501.887835
+e417730502.149963
+r1
+xCompileC
+xDerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/sparring.o
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/sparring.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/sparring.m
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/sparring.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/jesse/Documents/trial1_kickmotion rhk 2/sparring.m253"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.o sparring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6b60e3c50fe6b841^9cf826c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/sparring.m0000000000000000^4614"CompileC DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.o sparring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-generated-files.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-own-target-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-all-target-headers.hmap -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-project-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources/i386 -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.d --serialize-diagnostics /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.dia -c /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/sparring.m -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/sparring.o36"F473FB03-522F-4075-AD85-F479FEBEAAC6-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCompileStoryboard /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Base.lproj/Main.storyboard
+s417730502.690247
+e417730511.904511
+r1
+xCompileStoryboard
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"CompileStoryboard trial1_kickmotion\ rhk/Base.lproj/Main.storyboard67"CompileStoryboard trial1_kickmotion\ rhk/Base.lproj/Main.storyboarde6cab0c60fe6b841^9f8ee7cf0fe6b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/Base.lproj/Main.storyboard0000000000000000^949"CompileStoryboard trial1_kickmotion\ rhk/Base.lproj/Main.storyboard    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/Base.lproj/Main.storyboardc /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/Base.lproj/Main.storyboard36"2E1489C3-722B-4576-8426-4CF9C39B516B-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCopyStringsFile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/en.lproj/InfoPlist.strings trial1_kickmotion\ rhk/en.lproj/InfoPlist.strings
+s417730502.687682
+e417730502.699159
+r1
+xCopyStringsFile
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/en.lproj/InfoPlist.strings
+xtrial1_kickmotion rhk/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy trial1_kickmotion rhk/en.lproj/InfoPlist.strings191"CopyStringsFile DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/en.lproj/InfoPlist.strings trial1_kickmotion\ rhk/en.lproj/InfoPlist.stringsda1fb0c60fe6b841^8a20b6c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/en.lproj/InfoPlist.strings0000000000000000^743"CopyStringsFile DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/en.lproj/InfoPlist.strings trial1_kickmotion\ rhk/en.lproj/InfoPlist.strings    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/en.lproj -- trial1_kickmotion\ rhk/en.lproj/InfoPlist.strings36"3078E625-FF23-4C33-B6DA-61B32B33C8B4-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/back.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/back.png
+s417730502.669000
+e417730502.674396
+r1
+xCpResource
+xtrial1_kickmotion rhk/back.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/back.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/back.png150"CpResource trial1_kickmotion\ rhk/back.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/back.png755aabc60fe6b841^fcffacc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/back.png0038309ddcffdf42^743"CpResource trial1_kickmotion\ rhk/back.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/back.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/back.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"7FB06ADB-F082-452C-87A1-25BFDAB3D0A5-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/background.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/background.png
+s417730502.659551
+e417730502.665473
+r1
+xCpResource
+xtrial1_kickmotion rhk/background.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/background.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/background.png162"CpResource trial1_kickmotion\ rhk/background.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/background.pngadf6a8c60fe6b841^1e18acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/background.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/background.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/background.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/background.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"D4DC5DCD-CB22-4B5E-AC29-B2AE12B0073A-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/bprhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/bprhk1.png
+s417730502.666775
+e417730502.669680
+r1
+xCpResource
+xtrial1_kickmotion rhk/bprhk1.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/bprhk1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/bprhk1.png154"CpResource trial1_kickmotion\ rhk/bprhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/bprhk1.png00c7aac60fe6b841^d330acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@178"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/bprhk1.png0038309ddcffdf42^749"CpResource trial1_kickmotion\ rhk/bprhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/bprhk1.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/bprhk1.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"F766283C-3D79-404A-ACB8-3A628FEFA623-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/brhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/brhk.png
+s417730502.687639
+e417730502.691092
+r1
+xCpResource
+xtrial1_kickmotion rhk/brhk.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/brhk.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/brhk.png150"CpResource trial1_kickmotion\ rhk/brhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/brhk.pnga71fb0c60fe6b841^a296b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/brhk.png0038309ddcffdf42^743"CpResource trial1_kickmotion\ rhk/brhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/brhk.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/brhk.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"DD09DA86-A1A6-48B8-9CB5-1CE9117FA9A6-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/ll_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akick.png
+s417730502.680902
+e417730502.683730
+r1
+xCpResource
+xtrial1_kickmotion rhk/ll_akick.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akick.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akick.png158"CpResource trial1_kickmotion\ rhk/ll_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akick.pngd368aec60fe6b841^0c77b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@180"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/ll_akick.png0038309ddcffdf42^755"CpResource trial1_kickmotion\ rhk/ll_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akick.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ll_akick.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"13B34DE9-BA13-4E3B-8B16-B7EA51ABE646-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/ll_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp1.png
+s417730502.671154
+e417730502.676395
+r1
+xCpResource
+xtrial1_kickmotion rhk/ll_akickp1.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp1.png162"CpResource trial1_kickmotion\ rhk/ll_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp1.pngdae5abc60fe6b841^c45cb2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/ll_akickp1.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/ll_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp1.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ll_akickp1.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"B5308DD3-2FE5-4FB6-BE46-33E35248B708-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/ll_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp2.png
+s417730502.666856
+e417730502.670746
+r1
+xCpResource
+xtrial1_kickmotion rhk/ll_akickp2.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp2.png162"CpResource trial1_kickmotion\ rhk/ll_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp2.png8ec9aac60fe6b841^f035acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/ll_akickp2.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/ll_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp2.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ll_akickp2.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"3468CDBB-7F91-4093-B4FF-11F0F04678FE-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/ll_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp3.png
+s417730502.690020
+e417730502.693386
+r1
+xCpResource
+xtrial1_kickmotion rhk/ll_akickp3.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp3.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickp3.png162"CpResource trial1_kickmotion\ rhk/ll_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp3.pngb6bab0c60fe6b841^1f9db2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/ll_akickp3.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/ll_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickp3.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ll_akickp3.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"5BE81366-3C0A-485D-9C65-32439AF483C0-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/ll_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickre.png
+s417730502.681774
+e417730502.684761
+r1
+xCpResource
+xtrial1_kickmotion rhk/ll_akickre.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickre.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/ll_akickre.png162"CpResource trial1_kickmotion\ rhk/ll_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickre.png90a2aec60fe6b841^6c7cb2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/ll_akickre.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/ll_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/ll_akickre.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/ll_akickre.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"B69BFC8E-6F17-4C11-AEE9-9BC57D69DA49-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/martha.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/martha.png
+s417730502.683317
+e417730502.687297
+r1
+xCpResource
+xtrial1_kickmotion rhk/martha.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/martha.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/martha.png154"CpResource trial1_kickmotion\ rhk/martha.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/martha.pngc502afc60fe6b841^a586b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@178"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/martha.png0038309ddcffdf42^749"CpResource trial1_kickmotion\ rhk/martha.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/martha.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/martha.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"07F53BFE-8C25-4004-AEE9-75FBC07D1135-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/prhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk.png
+s417730502.671201
+e417730502.675905
+r1
+xCpResource
+xtrial1_kickmotion rhk/prhk.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/prhk.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/prhk.png150"CpResource trial1_kickmotion\ rhk/prhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk.pngb8e5abc60fe6b841^fb57b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/prhk.png0038309ddcffdf42^743"CpResource trial1_kickmotion\ rhk/prhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/prhk.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"32D0DD08-80DC-4549-A885-BA4E15622489-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/prhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk1.png
+s417730502.685334
+e417730502.689719
+r1
+xCpResource
+xtrial1_kickmotion rhk/prhk1.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/prhk1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/prhk1.png152"CpResource trial1_kickmotion\ rhk/prhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk1.png6a87afc60fe6b841^1091b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@177"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/prhk1.png0038309ddcffdf42^746"CpResource trial1_kickmotion\ rhk/prhk1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/prhk1.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/prhk1.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"C6A026E7-F0A1-47FD-AA18-C5D3D34DE134-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rhk.png
+s417730502.677691
+e417730502.681522
+r1
+xCpResource
+xtrial1_kickmotion rhk/rhk.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rhk.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rhk.png148"CpResource trial1_kickmotion\ rhk/rhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rhk.png8995adc60fe6b841^2b6cb2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@175"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rhk.png0038309ddcffdf42^740"CpResource trial1_kickmotion\ rhk/rhk.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rhk.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rhk.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"0315A52B-02B0-4FD2-A26F-65A6B0FB3EE4-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akick.png
+s417730502.659562
+e417730502.661801
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_akick.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akick.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akick.png158"CpResource trial1_kickmotion\ rhk/rl_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akick.pnge1eea8c60fe6b841^ac03acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@180"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_akick.png0038309ddcffdf42^755"CpResource trial1_kickmotion\ rhk/rl_akick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akick.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_akick.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"0E58A047-480F-41F7-91D9-9167BAAD74D4-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp1.png
+s417730502.665273
+e417730502.668313
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_akickp1.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp1.png162"CpResource trial1_kickmotion\ rhk/rl_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp1.png4e64aac60fe6b841^992aacc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_akickp1.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_akickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp1.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_akickp1.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"1C7E0DB0-39C7-4075-AAF6-6EC2EAE52D6B-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp2.png
+s417730502.674987
+e417730502.679587
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_akickp2.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp2.png162"CpResource trial1_kickmotion\ rhk/rl_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp2.png46ebacc60fe6b841^d863b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_akickp2.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_akickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp2.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_akickp2.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"63862CFF-F770-4D00-922E-C9CCB4F28932-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp3.png
+s417730502.668794
+e417730502.673200
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_akickp3.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp3.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickp3.png162"CpResource trial1_kickmotion\ rhk/rl_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp3.png2c48abc60fe6b841^edf3acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_akickp3.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_akickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickp3.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_akickp3.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"299BFA81-D3E7-4B50-9EED-16AEB1EB4951-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickre.png
+s417730502.663059
+e417730502.666336
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_akickre.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickre.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_akickre.png162"CpResource trial1_kickmotion\ rhk/rl_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickre.png14cfa9c60fe6b841^bd1eacc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_akickre.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_akickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_akickre.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_akickre.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"14E87826-972B-4C53-8933-89AB4DDA3D9B-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_bkick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkick.png
+s417730502.678361
+e417730502.682196
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_bkick.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkick.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkick.png158"CpResource trial1_kickmotion\ rhk/rl_bkick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkick.pngd3beadc60fe6b841^ac71b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@180"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_bkick.png0038309ddcffdf42^755"CpResource trial1_kickmotion\ rhk/rl_bkick.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkick.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_bkick.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"CD3F997D-AFCE-4A2C-8DC3-60629E9BE97E-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_bkickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp1.png
+s417730502.659578
+e417730502.663992
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_bkickp1.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp1.png162"CpResource trial1_kickmotion\ rhk/rl_bkickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp1.png5ef1a8c60fe6b841^3c11acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_bkickp1.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_bkickp1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp1.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_bkickp1.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"0834A275-93A2-4C07-ACA8-E0590AB9B861-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_bkickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp2.png
+s417730502.675363
+e417730502.680316
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_bkickp2.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp2.png162"CpResource trial1_kickmotion\ rhk/rl_bkickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp2.png170dadc60fe6b841^1f67b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_bkickp2.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_bkickp2.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp2.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_bkickp2.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"20F7CB83-BA5B-4505-8AD9-76EF5521773E-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_bkickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp3.png
+s417730502.685026
+e417730502.688768
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_bkickp3.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp3.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp3.png162"CpResource trial1_kickmotion\ rhk/rl_bkickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp3.pngc173afc60fe6b841^698cb2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_bkickp3.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_bkickp3.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp3.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_bkickp3.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"C070EB66-2466-4E91-8719-18F3E0CB6B40-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_bkickp4.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp4.png
+s417730502.682745
+e417730502.686306
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_bkickp4.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp4.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickp4.png162"CpResource trial1_kickmotion\ rhk/rl_bkickp4.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp4.png7bddaec60fe6b841^dc81b2c60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_bkickp4.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_bkickp4.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickp4.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_bkickp4.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"0B725F3E-70A2-48D2-9A79-1F279A206D16-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/rl_bkickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickre.png
+s417730502.663119
+e417730502.667581
+r1
+xCpResource
+xtrial1_kickmotion rhk/rl_bkickre.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickre.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/rl_bkickre.png162"CpResource trial1_kickmotion\ rhk/rl_bkickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickre.png46cfa9c60fe6b841^8d25acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/rl_bkickre.png0038309ddcffdf42^761"CpResource trial1_kickmotion\ rhk/rl_bkickre.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/rl_bkickre.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/rl_bkickre.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"858E6073-DE1A-4840-9B0B-942D9D4CE45B-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CCpResource trial1_kickmotion\ rhk/stand1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/stand1.png
+s417730502.659564
+e417730502.662791
+r1
+xCpResource
+xtrial1_kickmotion rhk/stand1.png
+xDerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/stand1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/stand1.png154"CpResource trial1_kickmotion\ rhk/stand1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/stand1.png56efa8c60fe6b841^0b09acc60fe6b841^---0#0#1#-19%DVTDocumentLocation2@178"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app/stand1.png0038309ddcffdf42^749"CpResource trial1_kickmotion\ rhk/stand1.png DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/stand1.png    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/stand1.png /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app36"D203C297-00C3-4C00-999E-28756B5A123D-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CGenerateDSYMFile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app.dSYM /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk
+s417730511.924684
+e417730512.075784
+r1
+xGenerateDSYMFile
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app.dSYM
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/trial1_kickmotion rhk
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Generate /Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app.dSYM242"GenerateDSYMFile DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app.dSYM DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhkd0d3eccf0fe6b841^1b6713d00fe6b841^---0#0#1#-19%DVTDocumentLocation2@172"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/DerivedData/trial1_kickmotion%20rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion%20rhk.app.dSYM0038309ddcffdf42^921"GenerateDSYMFile DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app.dSYM DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app.dSYM36"C86B7B27-29F7-4EAF-8CC7-041A43A610BA-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CLd /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk normal i386
+s417730502.186442
+e417730502.650869
+r1
+xLd
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/trial1_kickmotion rhk
+xnormal
+xi386
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/trial1_kickmotion rhk.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/ViewController.o
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/AppDelegate.o
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/main.o
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/sparring.o
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/trial1_kickmotion rhk.build/Debug-iphonesimulator/trial1_kickmotion rhk.build/Objects-normal/i386/Player.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Link /Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/trial1_kickmotion rhk136"Ld DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk normal i386bbd52fc60fe6b841^1e89a7c60fe6b841^---0#0#1#--1809"Ld DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk normal i386    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator -filelist /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/trial1_kickmotion\ rhk.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/Objects-normal/i386/trial1_kickmotion\ rhk_dependency_info.dat -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/trial1_kickmotion\ rhk36"CC67288E-15BD-42E1-9B40-B5A7A0C1878F-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CProcessInfoPlistFile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/Info.plist /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Info.plist
+s417730511.913091
+e417730511.916377
+r1
+xProcessInfoPlistFile
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion rhk.app/Info.plist
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/trial1_kickmotion rhk-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Process /Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/trial1_kickmotion rhk-Info.plist187"ProcessInfoPlistFile DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/Info.plist trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Info.plist30d4e9cf0fe6b841^3598eacf0fe6b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/trial1_kickmotion%20rhk-Info.plist0000000000000000^1207"ProcessInfoPlistFile DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/Info.plist trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Info.plist    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Info.plist -genpkginfo /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/assetcatalog_generated_info.plist -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app/Info.plist36"2AE98A7A-7A03-4468-8EB1-BED0602AFA77-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CProcessPCH /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.pch trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417730499.239375
+e417730501.878270
+r1
+xProcessPCH
+x/Users/jesse/Documents/trial1_kickmotion rhk 2/DerivedData/trial1_kickmotion rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion rhk-Prefix.pch.pch
+xtrial1_kickmotion rhk/trial1_kickmotion rhk-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Documents/trial1_kickmotion rhk 2/trial1_kickmotion rhk/trial1_kickmotion rhk-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile trial1_kickmotion rhk/trial1_kickmotion rhk-Prefix.pch306"ProcessPCH DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.pch trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24633dc30fe6b841^80d6e0c50fe6b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/jesse/Documents/trial1_kickmotion%20rhk%202/trial1_kickmotion%20rhk/trial1_kickmotion%20rhk-Prefix.pch0000000000000000^4506"ProcessPCH DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.pch trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jesse/Documents/trial1_kickmotion rhk 2"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-generated-files.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-own-target-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-all-target-headers.hmap -iquote /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/trial1_kickmotion\ rhk-project-headers.hmap -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources/i386 -I/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/trial1_kickmotion\ rhk.build/Debug-iphonesimulator/trial1_kickmotion\ rhk.build/DerivedSources -F/Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.d -c /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Prefix.pch -o /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Intermediates/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-gcxzvlrktsekbldexzjaldnfqazi/trial1_kickmotion\ rhk-Prefix.pch.pch36"ACFC8531-4CFB-41AF-9B79-88018634D10A-
+b85A54366-E859-4A1A-B5E4-A9BB9AFC4084
+
+CProcessPCH /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Index/PrecompiledHeaders/trial1_kickmotion\ rhk-Prefix-fmwpijgylfvlcfeoupxqtbmcdhxd_ast/trial1_kickmotion\ rhk-Prefix.pch.pch trial1_kickmotion\ rhk/trial1_kickmotion\ rhk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jesse/Documents/trial1_kickmotion\ rhk\ 2/DerivedData/trial1_kickmotion\ rhk/Build/Products/Debug-iphonesimulator/trial1_kickmotion\ rhk.app
+r0
+
