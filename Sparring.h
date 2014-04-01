@@ -7,19 +7,23 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PlayerContainer.h"
 
-
+//have images in player, and player will be created in playercontainer, so this will have an instance of player container that will house the different sprites...?
 
 @interface sparring : UIViewController
 {
     IBOutlet UIImageView* background;
-    IBOutlet UIImageView* Player;
-    
+    IBOutlet UIImageView* player;
 }
+@property PlayerContainer* players;
 
 -(IBAction)SwipeUp:(UIGestureRecognizer *) sender;
 -(IBAction)SwipeDown:(UIGestureRecognizer *) sender;
 -(IBAction)rotation:(UIGestureRecognizer *)sender;
+
+-(IBAction)MoveRight:(UIGestureRecognizer*) sender;
+-(IBAction)MoveLeft: (UIGestureRecognizer*)sender;
 
 
 @end
